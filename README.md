@@ -12,5 +12,5 @@ Javascript
 Versioning
 Github
 Screenshots:
-![alt landingPage](./screenshot#1.png)
-![alt landingPage](./screenshot#2.png)
+![alt landingPage](screenshot#1.png)
+![alt landingPage](screenshot#2.png)
